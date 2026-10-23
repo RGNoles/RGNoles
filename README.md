@@ -1,6 +1,6 @@
-## Spoony (Alexander Noles)
+## Spoony
 
-My name is **Alex (Spoony/Spoon)**, I am a UK student, doing a Master's at Portsmouth University. On my gap year I developed and published a video game called "Dash And Slash" and then in 2026 I released a second game "BULLET CHAIN - Vessels" into early access. 
+My name is **Riley (Spoony/Spoon)**, I am a UK student, doing a Master's at Portsmouth University. On my gap year I developed and published a video game called "Dash And Slash" and then in 2026 I released a second game "BULLET CHAIN - Vessels" into early access. 
 
 (Dash And Slash)
 https://store.steampowered.com/app/1951910/Dash_And_Slash  
